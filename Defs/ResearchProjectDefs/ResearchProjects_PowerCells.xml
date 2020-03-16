@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+	<ResearchProjectDef>
+		<defName>MPC_MechanoidPortableEnergy</defName>
+		<label>Mechanoid portable energy</label>
+		<description>Allows the fabrication of advanced power armors and helmets with Mechanoid technology.</description>
+		<baseCost>8000</baseCost>
+		<techLevel>Spacer</techLevel>
+		<prerequisites>
+			<li>AdvancedFabrication</li>
+		</prerequisites>
+		<researchViewX>15</researchViewX>
+		<researchViewY>5.3</researchViewY>
+	</ResearchProjectDef>
+</Defs>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Patch>
+
+  <!-- Balance Power Systems -->
+  <Operation Class="PatchOperationFindMod">
+	<mods>
+		<li>Mechanoid Blaster</li>
+	</mods>
+	<match Class="PatchOperationSequence">
+		<success>Always</success>
+		<operations>
+			<!-- Prerequisites -->
+			<li Class="PatchOperationAdd">
+				<xpath>/Defs/ResearchProjectDef[defName="MPC_MechanoidPortableEnergy"]/prerequisites</xpath>
+				<value>
+				  <li>MPC_MechanoidBlaster</li>
+				</value>
+			</li>
+		</operations>
+	</match>
+  </Operation>
+
+  <!-- Balance Power Research -->
+  <Operation Class="PatchOperationFindMod">
+	<mods>
+		<li>Mechanoid Power</li>
+	</mods>
+	<match Class="PatchOperationSequence">
+		<success>Always</success>
+		<operations>
+			<!-- Prerequisites -->
+			<li Class="PatchOperationAdd">
+				<xpath>/Defs/ResearchProjectDef[defName="MPC_MechanoidPortableEnergy"]/prerequisites</xpath>
+				<value>
+				  <li>MPC_MechanoidPowerSource</li>
+				</value>
+			</li>
+		</operations>
+	</match>
+  </Operation>
+  
+</Patch>
