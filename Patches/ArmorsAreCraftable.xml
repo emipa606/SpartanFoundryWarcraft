@@ -1,85 +1,79 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Patch>
-
   <!-- RimWorld Spartan Foundry Crafting -->
   <Operation Class="PatchOperationFindMod">
-	<mods>
-		<li>Rimworld: Spartan Foundry</li>
-	</mods>
-	<match Class="PatchOperationSequence">
-		<success>Always</success>
-		<operations>
-			<!-- Craftables -->
-			<li Class="PatchOperationReplace">
-				<xpath>/Defs/ThingDef[defName="SF_EngineerPowerArmor" or defName="SF_EngineerPowerArmorHelmet" or defName="SF_ExplorerPowerArmor" or defName="SF_ExplorerPowerArmorHelmet" or defName="SF_GrenadierPowerArmor" or defName="SF_GrenadierPowerArmorHelmet" or defName="SF_CommandoArmor" or defName="SF_CommandoArmorHelmet" or defName="SF_HazardOperationsArmor" or defName="SF_HazardOperationsArmorHelmet" or defName="SF_DiplomatPowerArmor" or defName="SF_DiplomatPowerArmorHelmet" or defName="SF_DefenderPowerArmor" or defName="SF_DefenderPowerArmorHelmet" or defName="SF_ScoutPowerArmor" or defName="SF_ScoutPowerArmorHelmet" or defName="SF_SamuraiPowerArmor" or defName="SF_SamuraiPowerArmorHelmet" or defName="SF_ShockTrooperArmor" or defName="SF_ShockTrooperArmorHelmet" or defName="SF_ReconPowerArmor" or defName="SF_ReconPowerArmorHelmet"]/recipeMaker/recipeUsers</xpath>
-				<value>
-				  <recipeUsers Inherit="False">
-					<li>FabricationBench</li>
-				  </recipeUsers>
-				</value>
-			</li>
-		</operations>
-	</match>
+    <mods>
+      <li>Rimworld: Spartan Foundry</li>
+    </mods>
+    <match Class="PatchOperationSequence">
+      <success>Always</success>
+      <operations>
+        <!-- Craftables -->
+        <li Class="PatchOperationReplace">
+          <xpath>/Defs/ThingDef[defName="SF_EngineerPowerArmor" or defName="SF_EngineerPowerArmorHelmet" or defName="SF_ExplorerPowerArmor" or defName="SF_ExplorerPowerArmorHelmet" or defName="SF_GrenadierPowerArmor" or defName="SF_GrenadierPowerArmorHelmet" or defName="SF_CommandoArmor" or defName="SF_CommandoArmorHelmet" or defName="SF_HazardOperationsArmor" or defName="SF_HazardOperationsArmorHelmet" or defName="SF_DiplomatPowerArmor" or defName="SF_DiplomatPowerArmorHelmet" or defName="SF_DefenderPowerArmor" or defName="SF_DefenderPowerArmorHelmet" or defName="SF_ScoutPowerArmor" or defName="SF_ScoutPowerArmorHelmet" or defName="SF_SamuraiPowerArmor" or defName="SF_SamuraiPowerArmorHelmet" or defName="SF_ShockTrooperArmor" or defName="SF_ShockTrooperArmorHelmet" or defName="SF_ReconPowerArmor" or defName="SF_ReconPowerArmorHelmet"]/recipeMaker/recipeUsers</xpath>
+          <value>
+            <recipeUsers Inherit="False">
+              <li>FabricationBench</li>
+            </recipeUsers>
+          </value>
+        </li>
+      </operations>
+    </match>
   </Operation>
-
   <!-- Needs unique Research -->
   <Operation Class="PatchOperationFindMod">
-	<mods>
-		<li>Rimworld: Spartan Foundry</li>
-	</mods>
-	<match Class="PatchOperationSequence">
-		<success>Always</success>
-		<operations>
-			<!-- Research -->
-			<li Class="PatchOperationReplace">
-				<xpath>/Defs/ThingDef[defName="SF_EngineerPowerArmor" or defName="SF_EngineerPowerArmorHelmet" or defName="SF_ExplorerPowerArmor" or defName="SF_ExplorerPowerArmorHelmet" or defName="SF_GrenadierPowerArmor" or defName="SF_GrenadierPowerArmorHelmet" or defName="SF_CommandoArmor" or defName="SF_CommandoArmorHelmet" or defName="SF_HazardOperationsArmor" or defName="SF_HazardOperationsArmorHelmet" or defName="SF_DiplomatPowerArmor" or defName="SF_DiplomatPowerArmorHelmet" or defName="SF_DefenderPowerArmor" or defName="SF_DefenderPowerArmorHelmet" or defName="SF_ScoutPowerArmor" or defName="SF_ScoutPowerArmorHelmet" or defName="SF_SamuraiPowerArmor" or defName="SF_SamuraiPowerArmorHelmet" or defName="SF_ShockTrooperArmor" or defName="SF_ShockTrooperArmorHelmet" or defName="SF_ReconPowerArmor" or defName="SF_ReconPowerArmorHelmet"]/recipeMaker/researchPrerequisite</xpath>
-				<value>
-				  <researchPrerequisite>
-					<li>MPC_MechanoidPortableEnergy</li>
-				  </researchPrerequisite>
-				</value>
-			</li>
-		</operations>
-	</match>
+    <mods>
+      <li>Rimworld: Spartan Foundry</li>
+    </mods>
+    <match Class="PatchOperationSequence">
+      <success>Always</success>
+      <operations>
+        <!-- Research -->
+        <li Class="PatchOperationReplace">
+          <xpath>/Defs/ThingDef[defName="SF_EngineerPowerArmor" or defName="SF_EngineerPowerArmorHelmet" or defName="SF_ExplorerPowerArmor" or defName="SF_ExplorerPowerArmorHelmet" or defName="SF_GrenadierPowerArmor" or defName="SF_GrenadierPowerArmorHelmet" or defName="SF_CommandoArmor" or defName="SF_CommandoArmorHelmet" or defName="SF_HazardOperationsArmor" or defName="SF_HazardOperationsArmorHelmet" or defName="SF_DiplomatPowerArmor" or defName="SF_DiplomatPowerArmorHelmet" or defName="SF_DefenderPowerArmor" or defName="SF_DefenderPowerArmorHelmet" or defName="SF_ScoutPowerArmor" or defName="SF_ScoutPowerArmorHelmet" or defName="SF_SamuraiPowerArmor" or defName="SF_SamuraiPowerArmorHelmet" or defName="SF_ShockTrooperArmor" or defName="SF_ShockTrooperArmorHelmet" or defName="SF_ReconPowerArmor" or defName="SF_ReconPowerArmorHelmet"]/recipeMaker/researchPrerequisite</xpath>
+          <value>
+            <researchPrerequisite>
+              <li>MPC_MechanoidPortableEnergy</li>
+            </researchPrerequisite>
+          </value>
+        </li>
+      </operations>
+    </match>
   </Operation>
-
   <!-- Work Time -->
   <Operation Class="PatchOperationFindMod">
-	<mods>
-		<li>Rimworld: Spartan Foundry</li>
-	</mods>
-	<match Class="PatchOperationSequence">
-		<success>Always</success>
-		<operations>
-			<!-- Helmet -->
-			<li Class="PatchOperationReplace">
-				<xpath>/Defs/ThingDef[defName="SF_PoweredAssaultArmorHelmet" or defName="SF_EngineerPowerArmorHelmet" or defName="SF_ExplorerPowerArmorHelmet" or defName="SF_GrenadierPowerArmorHelmet" or defName="SF_CommandoArmorHelmet" or defName="SF_HazardOperationsArmorHelmet" or defName="SF_DiplomatPowerArmorHelmet" or defName="SF_DefenderPowerArmorHelmet" or defName="SF_ScoutPowerArmorHelmet" or defName="SF_SamuraiPowerArmorHelmet" or defName="SF_ShockTrooperArmorHelmet" or defName="SF_ReconPowerArmorHelmet"]/statBases/WorkToMake</xpath>
-				<value>
-				  <WorkToMake>16000</WorkToMake>
-				</value>
-			</li>
-		</operations>
-	</match>
-  </Operation>  
-
+    <mods>
+      <li>Rimworld: Spartan Foundry</li>
+    </mods>
+    <match Class="PatchOperationSequence">
+      <success>Always</success>
+      <operations>
+        <!-- Helmet -->
+        <li Class="PatchOperationReplace">
+          <xpath>/Defs/ThingDef[defName="SF_PoweredAssaultArmorHelmet" or defName="SF_EngineerPowerArmorHelmet" or defName="SF_ExplorerPowerArmorHelmet" or defName="SF_GrenadierPowerArmorHelmet" or defName="SF_CommandoArmorHelmet" or defName="SF_HazardOperationsArmorHelmet" or defName="SF_DiplomatPowerArmorHelmet" or defName="SF_DefenderPowerArmorHelmet" or defName="SF_ScoutPowerArmorHelmet" or defName="SF_SamuraiPowerArmorHelmet" or defName="SF_ShockTrooperArmorHelmet" or defName="SF_ReconPowerArmorHelmet"]/statBases/WorkToMake</xpath>
+          <value>
+            <WorkToMake>16000</WorkToMake>
+          </value>
+        </li>
+      </operations>
+    </match>
+  </Operation>
   <!-- Work Time -->
   <Operation Class="PatchOperationFindMod">
-	<mods>
-		<li>Rimworld: Spartan Foundry</li>
-	</mods>
-	<match Class="PatchOperationSequence">
-		<success>Always</success>
-		<operations>
-			<!-- Armor -->
-			<li Class="PatchOperationReplace">
-				<xpath>/Defs/ThingDef[defName="SF_PoweredAssaultArmor" or defName="SF_EngineerPowerArmor" or defName="SF_ExplorerPowerArmor" or defName="SF_GrenadierPowerArmor" or defName="SF_CommandoArmor" or defName="SF_HazardOperationsArmor" or defName="SF_DiplomatPowerArmor" or defName="SF_DefenderPowerArmor" or defName="SF_ScoutPowerArmor" or defName="SF_SamuraiPowerArmor" or defName="SF_ShockTrooperArmor" or defName="SF_ReconPowerArmor"]/statBases/WorkToMake</xpath>
-				<value>
-				  <WorkToMake>40000</WorkToMake>
-				</value>
-			</li>
-		</operations>
-	</match>
+    <mods>
+      <li>Rimworld: Spartan Foundry</li>
+    </mods>
+    <match Class="PatchOperationSequence">
+      <success>Always</success>
+      <operations>
+        <!-- Armor -->
+        <li Class="PatchOperationReplace">
+          <xpath>/Defs/ThingDef[defName="SF_PoweredAssaultArmor" or defName="SF_EngineerPowerArmor" or defName="SF_ExplorerPowerArmor" or defName="SF_GrenadierPowerArmor" or defName="SF_CommandoArmor" or defName="SF_HazardOperationsArmor" or defName="SF_DiplomatPowerArmor" or defName="SF_DefenderPowerArmor" or defName="SF_ScoutPowerArmor" or defName="SF_SamuraiPowerArmor" or defName="SF_ShockTrooperArmor" or defName="SF_ReconPowerArmor"]/statBases/WorkToMake</xpath>
+          <value>
+            <WorkToMake>40000</WorkToMake>
+          </value>
+        </li>
+      </operations>
+    </match>
   </Operation>
-
-
 </Patch>
