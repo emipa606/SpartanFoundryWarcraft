@@ -3,7 +3,7 @@
   <!-- Balance Power Systems -->
   <Operation Class="PatchOperationFindMod">
     <mods>
-      <li>Mechanoid Blaster</li>
+      <li>Mechanoid Master Blaster (Continued)</li>
     </mods>
     <match Class="PatchOperationSequence">
       <success>Always</success>
@@ -21,7 +21,7 @@
   <!-- Balance Power Research -->
   <Operation Class="PatchOperationFindMod">
     <mods>
-      <li>Mechanoid Power</li>
+      <li>Mechanoid Power (Continued)</li>
     </mods>
     <match Class="PatchOperationSequence">
       <success>Always</success>

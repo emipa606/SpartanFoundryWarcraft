@@ -3,7 +3,7 @@
   <!-- Balancing Patch -->
   <Operation Class="PatchOperationFindMod">
     <mods>
-      <li>Mechanoid Power</li>
+      <li>Mechanoid Power (Continued)</li>
     </mods>
     <match Class="PatchOperationSequence">
       <success>Always</success>
