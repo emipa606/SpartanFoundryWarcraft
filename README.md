@@ -43,8 +43,8 @@ All Power armors and helmets are available at the Fabrication Bench now after Re
 # Requirements
 
 
-- Fabrication Bench ("Advanced Fabrication")
-- Research ("Mechanoid Portable Energy")
+- Fabrication Bench (&quot;Advanced Fabrication&quot;)
+- Research (&quot;Mechanoid Portable Energy&quot;)
 - Crafting Skill 12
 
 # Load Order
@@ -88,6 +88,7 @@ German Language: [url]https://steamcommunity.com/sharedfiles/filedetails/?id=172
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+
 
 
 
