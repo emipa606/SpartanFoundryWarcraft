@@ -1,23 +1,14 @@
 # SpartanFoundryWarcraft
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 Update of Trunkens mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1737394695
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+![Image](https://i.imgur.com/pufA0kM.png)
 
-
-[table]
-	[tr]
-		[td]https://invite.gg/Mlie]![Image](https://i.imgur.com/zdzzBrc.png)
-[/td]
-		[td]https://github.com/emipa606/SpartanFoundryWarcraft]![Image](https://i.imgur.com/kTkpTOE.png)
-[/td]
-	[/tr]
-[/table]
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 
 Makes all marine armors by Spartan Foundry craftable:
@@ -43,8 +34,8 @@ All Power armors and helmets are available at the Fabrication Bench now after Re
 # Requirements
 
 
-- Fabrication Bench (&quot;Advanced Fabrication&quot;)
-- Research (&quot;Mechanoid Portable Energy&quot;)
+- Fabrication Bench ("Advanced Fabrication")
+- Research ("Mechanoid Portable Energy")
 - Crafting Skill 12
 
 # Load Order
@@ -78,7 +69,7 @@ RimWorld Spartan Foundry: [url]https://steamcommunity.com/sharedfiles/filedetail
 German Language: [url]https://steamcommunity.com/sharedfiles/filedetails/?id=1724846368
 
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 
