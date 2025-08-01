@@ -2,5 +2,14 @@
   "Continued": true,
   "CanAdd": "0",
   "CanRemove": "0",
-  "PreviewVersion": "1.5"
+  "PreviewVersion": "1.6",
+  "Patches": true,
+  "Defs": true,
+  "Assemblies": false,
+  "LinesOfCode": 0,
+  "LinesOfXML": 10891,
+  "CodeBaseSize": 64,
+  "LastXmlCleaning": "2025-08-01T21:24:26.5409155+02:00",
+  "SocialImageSet": true,
+  "SearchTags": " craftable"
 }

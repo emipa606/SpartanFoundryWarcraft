@@ -1,4 +1,4 @@
-# SpartanFoundryWarcraft
+# [Spartan Foundry Warcraft (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=2024346916)
 
 ![Image](https://i.imgur.com/buuPQel.png)
 
@@ -6,10 +6,8 @@ Update of Trunkens mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1737394695
 
 ![Image](https://i.imgur.com/pufA0kM.png)
-
 	
 ![Image](https://i.imgur.com/Z4GOv8H.png)
-
 
 Makes all marine armors by Spartan Foundry craftable:
 
@@ -47,7 +45,6 @@ All Power armors and helmets are available at the Fabrication Bench now after Re
 
 ![Image](https://i.ibb.co/6s3FrJP/EITHERWAY-BOTHWORKS.png)
 
-
 4. More Crashed Ship Parts (optional: 2,4,5,6)
 5. Mechanoid Power Source (Auto balance, when found)
 6. Mechanoid Master Blaster (swap this three in front, for harder research and MPC crafting costs)
@@ -65,8 +62,8 @@ Code * by Trunken
 
 # Links
 
-RimWorld Spartan Foundry: [url]https://steamcommunity.com/sharedfiles/filedetails/?id=1695609511
-German Language: [url]https://steamcommunity.com/sharedfiles/filedetails/?id=1724846368
+RimWorld Spartan Foundry: [url]https://steamcommunity.com/sharedfiles/filedetails/?id=1695609511[/url]
+German Language: [url]https://steamcommunity.com/sharedfiles/filedetails/?id=1724846368[/url]
 
 
 ![Image](https://i.imgur.com/PwoNOj4.png)
@@ -75,13 +72,12 @@ German Language: [url]https://steamcommunity.com/sharedfiles/filedetails/?id=172
 
 -  See if the the error persists if you just have this mod and its requirements active.
 -  If not, try adding your other mods until it happens again.
--  Post your error-log using https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib or the standalone https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404]Uploader and command Ctrl+F12
+-  Post your error-log using the [Log Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) or the standalone [Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) and command Ctrl+F12
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
--  Use https://github.com/RimSort/RimSort/releases/latest]RimSort to sort your mods
+-  Use [RimSort](https://github.com/RimSort/RimSort/releases/latest) to sort your mods
 
+ 
 
-
-https://steamcommunity.com/sharedfiles/filedetails/changelog/2024346916]![Image](https://img.shields.io/github/v/release/emipa606/SpartanFoundryWarcraft?label=latest%20version&style=plastic&color=9f1111&labelColor=black)
-
+[![Image](https://img.shields.io/github/v/release/emipa606/SpartanFoundryWarcraft?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2024346916) | tags:  craftable
