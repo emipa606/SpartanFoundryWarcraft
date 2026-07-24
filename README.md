@@ -80,4 +80,4 @@ German Language: [url]https://steamcommunity.com/sharedfiles/filedetails/?id=172
 
  
 
-[![Image](https://img.shields.io/github/v/release/emipa606/SpartanFoundryWarcraft?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2024346916) | tags:  craftable
+[![Image](https://img.shields.io/github/v/release/emipa606/SpartanFoundryWarcraft?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2024346916) | tags: craftable

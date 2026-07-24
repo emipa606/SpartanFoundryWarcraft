@@ -2,7 +2,7 @@
 <ModMetaData>
   <name>Spartan Foundry Warcraft (Continued)</name>
   <packageId>Mlie.SpartanFoundryWarcraft</packageId>
-  <author>Mlie</author>
+  <author>Trunken</author>
   <url>https://github.com/emipa606/SpartanFoundryWarcraft</url>
   <supportedVersions>
     <li>1.0</li>
@@ -106,6 +106,6 @@ German Language: [url]https://steamcommunity.com/sharedfiles/filedetails/?id=172
 [*] Use [url=https://github.com/RimSort/RimSort/releases/latest]RimSort[/url] to sort your mods
 [/list] 
 
-[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/2024346916][img]https://img.shields.io/github/v/release/emipa606/SpartanFoundryWarcraft?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url] | tags:  craftable</description>
-  <modVersion IgnoreIfNoMatchingField="True">1.6.2</modVersion>
+[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/2024346916][img]https://img.shields.io/github/v/release/emipa606/SpartanFoundryWarcraft?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url] | tags: craftable</description>
+  <modVersion IgnoreIfNoMatchingField="True">1.6.3</modVersion>
 </ModMetaData>
